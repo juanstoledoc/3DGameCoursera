@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3d023e01776944028b189f6f78161760
+timeCreated: 1469981359
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Operator Mono HB 8
+  fontNames:
+  - Pixel Operator Mono HB 8
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2398a28ab33253b46922d39e260fa86e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: themeassets
+  assetBundleVariant: 
